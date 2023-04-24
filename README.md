@@ -48,6 +48,7 @@ For example with:
     ./bsq 30 "..o..o...o"
 
 We obtain:
+
 ![result generate and solved map 30x30](./pictures/30x30_generate_map.png)
 
 It is quite optimized and can test up to a valid 1000x1000 file in less than 15 seconds.
