@@ -38,7 +38,7 @@ To find the largest square in an existing file you can do for example:
     ./bsq maps-intermediate/mouli_maps/intermediate_map_30_30
 
 And the result will be:
-![result file 30x30](./pictures/30x30_result.png30x30_result.png)
+![result file 30x30](./pictures/30x30_result.png)
 
 To create a new map and find the square inside it you will have to do:
 
